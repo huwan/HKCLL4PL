@@ -1,6 +1,8 @@
 # 香港小學學習字詞表
+
 Hong Kong Chinese Lexical Lists for Primary Learning
-[香港教育局 香港小學學習字詞表 網站](https://www.edbchinese.hk/lexlist_ch/index.jsp)
+
+官網：[香港教育局 香港小學學習字詞表](https://www.edbchinese.hk/lexlist_ch/index.jsp)
 
 ## 小學用字一覽表
 收錄3,171字。
@@ -12,9 +14,9 @@ Hong Kong Chinese Lexical Lists for Primary Learning
 - 按照字碼排序。
 
 其中：
-屬《香港小學學習字詞表》3,171 字範圍，而不入《常用字字形表》4,762 字範圍內：42字。
-屬《常用字字形表》4,762 字範圍，而不入《香港小學學習字詞表》3,171 字範圍內：1633字。
-兩個字表總計收錄4,804字。
+- 兩個字表總計收錄4,804字。
+- 屬《香港小學學習字詞表》3,171 字範圍，而不入《常用字字形表》4,762 字範圍內：42字。
+- 屬《常用字字形表》4,762 字範圍，而不入《香港小學學習字詞表》3,171 字範圍內：1,633字。
 
 ## 文件列表
 
